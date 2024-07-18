@@ -14,7 +14,7 @@ Un socle est ainsi constitué d'étages, chaque étage ayant une hauteur égale 
 
 Votre programme doit lire deux entiers, représentant respectivement la largeur du socle au niveau du sol et la largeur du socle au niveau de la face supérieure du socle. Il doit ensuite calculer et afficher le volume du socle.
 
-##EXAMPLE
+## EXAMPLE
 
 input:
 7
